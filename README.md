@@ -4,7 +4,7 @@ Este es un proyecto de ejemplo en HTML y Python.
 
 ## Tecnologías
 
-- HTML/CSS
+- HTML5/CSS
 - Python 3
 
 ## Cómo usar
